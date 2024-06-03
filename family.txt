@@ -1,1 +1,5 @@
-dad mom sosi nati me babi
+{
+    Father:Amare Mamo,
+    Mother:Dinkinesh desalejh,
+    siblings:["Surafel","sosina","Abenezer"]
+}
